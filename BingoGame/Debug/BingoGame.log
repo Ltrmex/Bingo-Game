@@ -1,0 +1,14 @@
+﻿  BingoGame.c
+c:\users\maciej\desktop\college\college year 2\semester 1\procedural programming\labs\bingogame\bingogame\bingogame.c(22): warning C4013: 'time' undefined; assuming extern returning int
+c:\users\maciej\desktop\college\college year 2\semester 1\procedural programming\labs\bingogame\bingogame\bingogame.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\maciej\desktop\college\college year 2\semester 1\procedural programming\labs\bingogame\bingogame\bingogame.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\maciej\desktop\college\college year 2\semester 1\procedural programming\labs\bingogame\bingogame\bingogame.c(95): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\maciej\desktop\college\college year 2\semester 1\procedural programming\labs\bingogame\bingogame\bingogame.c(118): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\maciej\desktop\college\college year 2\semester 1\procedural programming\labs\bingogame\bingogame\bingogame.c(121): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  BingoGame.vcxproj -> C:\Users\Maciej\Desktop\College\College Year 2\Semester 1\Procedural Programming\Labs\BingoGame\Debug\BingoGame.exe
+  BingoGame.vcxproj -> C:\Users\Maciej\Desktop\College\College Year 2\Semester 1\Procedural Programming\Labs\BingoGame\Debug\BingoGame.pdb (Full PDB)
